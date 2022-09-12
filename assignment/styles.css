@@ -1,0 +1,51 @@
+
+header.header1 {
+    background-image: linear-gradient(to right,black,purple);
+    text-align: center;
+    
+    
+}
+header.header1 h1, header.header1 h2 {
+    color:bisque;
+    padding:10px;
+    margin:0;
+
+    
+}
+main.main1 {
+    background-color: lightgrey;
+    margin:0;
+    padding:1em;
+    text-decoration: underline;
+    color: red;
+
+}
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y:center;
+    background-size: contain;
+    background-color: rgb(202, 141, 30);
+    margin:0;
+}
+span#span1 {
+    color: rgb(200,130,28);
+}
+ul.ul1 {
+    background-image: linear-gradient(to right,black,purple);
+     padding:1.5em;
+     color: rgb(200,130,28);
+     list-style-type: none;
+       }
+ul.ul1 li {
+    padding:5px;
+    font-size:20px;
+    margin-left:10px;
+}
+ 
+ 
+    
+   
+
+ 
